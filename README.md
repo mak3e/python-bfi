@@ -1,2 +1,8 @@
 # python-bfi
-Brainfuck interpreter for python
+Very simple brainfuck interpreter for python
+
+
+Usage:
+```
+bfi.py "<[+-.,]>" "input ascii characters"
+```
